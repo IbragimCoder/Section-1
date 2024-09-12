@@ -2,12 +2,13 @@
 
 ### In this section, it was necessary to analyze the dataset and answer questions, the code and documentation are in the questions.ipynb file.
 #
-> Requirements
+>  Dependencies
 #### _In order for the project to be launched, you need to have the following modules_
 + spaCy
 + TextBlob
 + pandas
 + matplotlib
++ haversine
 #
 
 #### You also need to install the "en_core_web_sm" model by running this command:
@@ -23,3 +24,5 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-%2336E7B2.svg?style=for-the-badge&logo=spaCy&logoColor=white)
 ![TextBlob](https://img.shields.io/badge/TextBlob-%23E6A8E3.svg?style=for-the-badge&logo=TextBlob&logoColor=white)
+![Haversine](https://img.shields.io/badge/haversine-%230072B2.svg?style=for-the-badge&logo=haversine&logoColor=white)
+
